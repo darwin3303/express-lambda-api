@@ -1,0 +1,25 @@
+{
+  "name": "express-lambda-api",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/darwin3303/express-lambda-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/darwin3303/express-lambda-api/issues"
+  },
+  "homepage": "https://github.com/darwin3303/express-lambda-api#readme",
+  "description": "",
+  "dependencies": {
+    "aws-serverless-express": "^3.4.0",
+    "body-parser": "^1.20.3",
+    "expres": "^0.0.5"
+  }
+}
